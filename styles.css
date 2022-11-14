@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto+Slab:wght@700&display=swap');
+
+h2 {
+
+    width: 365px;
+    height: 93px;
+    left: 124px;
+    top: 91px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+}
+.paragraph {
+    display: flex;
+
+}
+p {
+
+    width: 662px;
+    height: 374px;
+    left: 124px;
+    top: 202px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.pict1 {
+
+  position: absolute;
+  width: 314px;
+  height: 315px;
+  left: 976px;
+  top: 226px;
+  background: url(_1);
+}
+
+.pict2 {
+    
+    position: absolute;
+width: 232px;
+height: 203px;
+left: 124px;
+top: 670px;
+
+background: url(photo);
+}
+
+.paragraph1 {
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    display: flex;
+    width: 232px;
+    height: 203px;
+    left: 190px;
+    top: 663px;
+
+    background: url(photo.png);
+}
+
+h3 {
+
+    width: 150px;
+    height: 39px;
+    left: 488px;
+    top: 740px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
+
+
+    color: #000000;
+}
+
+.soul {
+
+    width: 150px;
+    height: 39px;
+    left: 488px;
+    top: 780px;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+
+.ellips1 {
+    position: absolute;
+    width: 366px;
+    height: 59px;
+    left: 950px;
+    top: 511px;
+    border-radius: 50%;
+    background: #918f8f;}
+
+.ellips2 {
+
+    position: absolute;
+    width: 189px;
+    height: 32px;
+    left: 157px;
+    top: 857px;
+    border-radius: 50%;
+    background: #817d7d;
+}
+.pdiv{
+    position: absolute;
+   display: flex;
+width: 150px;
+height: 39px;
+left: 488px;
+top: 740px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+
+color: #000000;
+}
+.cat1{
+    margin-right: 95px;
+}
+.cat2{
+    margin-right: 92px;
+}
